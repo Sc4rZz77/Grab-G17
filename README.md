@@ -16,7 +16,4 @@ metered taxis with upfront app pricing and new tiers (GrabBike, GrabCar Plus).
 
 All rates are illustrative assumptions, not real Grab prices.
 
-## Tests
-    BIN=./grabfare bash tests/run_tests.sh      -> writes tests/test_results.txt
-See TEST_TABLE.md for the 9 cases.
 
